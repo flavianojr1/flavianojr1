@@ -55,8 +55,6 @@ Sou um entusiasta de tecnologia em transição para a área de Ciência de Dados
 
   💬 Pergunte-me sobre Python, Excel, Visualização de Dados e SQL.
 
-  📫 Como me encontrar: LinkedIn | E-mail.
-
 ## ⚡ Fun fact:
 
 Já fui auxiliar de mecânico automotivo, já fiz camisetas, já pintei casas e vendi suplementos de academia!
@@ -70,10 +68,8 @@ Cursando EBAC - Ciência de Dados
 
 🌐 Conecte-se Comigo:
 
-🔖 LinkedIn
+[LinkedIn](https://www.linkedin.com/in/flaviano-junior/)
 
-💻 Portfólio GitHub
-
-📧 E-mail para Contato
+[Slack](https://planodecarreirasebac.slack.com/team/U089GKWRZDG)
 
 Curioso(a) para saber mais? Vamos construir algo incrível juntos!
