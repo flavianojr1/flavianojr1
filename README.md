@@ -1,60 +1,63 @@
-## Olá! Eu sou Flaviano Junior 👋
+# Olá! Eu sou Flaviano Junior 👋
 
 Sou um entusiasta de tecnologia em transição para a área de Ciência de Dados. Atualmente, estou cursando Ciência de Dados na EBAC e trabalhando para construir um futuro onde dados e criatividade se encontram para solucionar problemas reais.
 
-### ⚖️ Um pouco sobre mim:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-🎨 Apaixonado por dados, storytelling e análise visual.
+## ⚖️ Um pouco sobre mim:
 
-🏢 Atualmente trabalhando na área de tecnologia, com experiência em suporte e soluções para sistemas complexos.
+  🎨 Apaixonado por dados, storytelling e análise visual.
 
-🔧 Experiência prévia com PHP e desenvolvimento de sites em WordPress.
+  🏢 Atualmente trabalhando na área de tecnologia, com experiência em suporte e soluções para sistemas complexos.
 
-📚 Concluí curso técnico integrado ao ensino médio de Informática para Internet.
+  🔧 Experiência prévia com PHP e desenvolvimento de sites em WordPress.
 
-🌰 Em constante aprendizado, com o objetivo de me tornar analista de dados em um banco.
+  📚 Concluí curso técnico integrado ao ensino médio de Informática para Internet.
 
-🎊 Almejo desenvolver projetos práticos que ajudem a contar histórias com dados.
+  🌰 Em constante aprendizado, com o objetivo de me tornar analista de dados em um banco.
 
-### 🔧 Tecnologias e Ferramentas:
+  🎊 Almejo desenvolver projetos práticos que ajudem a contar histórias com dados.
 
-Linguagens de Programação: Python (…em progresso com foco em bibliotecas como Pandas, NumPy e Matplotlib), PHP.
+## 🔧 Tecnologias e Ferramentas:
 
-Banco de Dados: Experiência com MySQL e boas práticas para gerenciar dados relacionais.
+* Linguagens de Programação: Python (…em progresso com foco em bibliotecas como Pandas, NumPy e Matplotlib), PHP.
 
-Visualização de Dados: Explorando ferramentas como Power BI e Tableau.
+* Banco de Dados: Experiência com MySQL e boas práticas para gerenciar dados relacionais.
 
-Outras Ferramentas: Excel Avançado, Google Sheets e Git/GitHub.
+* Visualização de Dados: Explorando ferramentas como Power BI e Tableau.
 
-Desenvolvimento Web: Experiência com WordPress, HTML, CSS e JavaScript.
+* Outras Ferramentas: Excel Avançado, Google Sheets e Git/GitHub.
 
-### 📈 Objetivos para 2025:
+* Desenvolvimento Web: Experiência com WordPress, HTML, CSS e JavaScript.
 
-📚 Concluir o curso de Ciência de Dados na EBAC e aplicar os conhecimentos adquiridos em projetos reais.
+## 📈 Objetivos para 2025:
 
-🌐 Criar um perfil campeão no LinkedIn para destacar minha transição de carreira e habilidades na área.
+  📚 Concluir o curso de Ciência de Dados na EBAC e aplicar os conhecimentos adquiridos em projetos reais.
 
-📊 Desenvolver 3 projetos práticos de análise de dados e storytelling.
+  🌐 Criar um perfil campeão no LinkedIn para destacar minha transição de carreira e habilidades na área.
 
-🎓 Obter certificações como Microsoft Power BI ou similares para fortalecer minha base técnica.
+  📊 Desenvolver 3 projetos práticos de análise de dados e storytelling.
 
-### 🔓 Sobre Mim:
+  🎓 Obter certificações como Microsoft Power BI ou similares para fortalecer minha base técnica.
 
-🔭 Atualmente estou trabalhando em minha transição para a área de Ciência de Dados para a área de Ciência de Dados e construção de projetos práticos.
+## 🔓 Sobre Mim:
 
-🌱 Atualmente estou aprendendo Python, visualização de dados e storytelling com dados.
+  🔭 Atualmente estou trabalhando em minha transição para a área de Ciência de Dados para a área de Ciência de Dados e construção de projetos práticos.
 
-👯 Estou procurando colaborar em projetos de análise de dados e soluções criativas com impacto.
+  🌱 Atualmente estou aprendendo Python, visualização de dados e storytelling com dados.
 
-🤔 Estou procurando ajuda com boas práticas em storytelling com dados e documentação de projetos.
+  👯 Estou procurando colaborar em projetos de análise de dados e soluções criativas com impacto.
 
-💬 Pergunte-me sobre Python, Excel, Visualização de Dados e SQL.
+  🤔 Estou procurando ajuda com boas práticas em storytelling com dados e documentação de projetos.
 
-📫 Como me encontrar: LinkedIn | E-mail.
+  💬 Pergunte-me sobre Python, Excel, Visualização de Dados e SQL.
 
-⚡ Fun fact: Já fui auxiliar de mecânico automotivo, já fiz camisetas, já pintei casas e vendi suplementos de academia!
+  📫 Como me encontrar: LinkedIn | E-mail.
 
-### ✨ Projetos em Andamento:
+## ⚡ Fun fact: Já fui auxiliar de mecânico automotivo, já fiz camisetas, já pintei casas e vendi suplementos de academia!
+
+## ✨ Projetos em Andamento:
 
 Cursando EBAC - Ciência de Dados
 
