@@ -7,7 +7,7 @@ Sou um entusiasta de tecnologia em transição para a área de Ciência de Dados
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 
 
-## ⚖️ Resumo:
+##
 
   🎨 Apaixonado por dados, storytelling e análise visual.
 
