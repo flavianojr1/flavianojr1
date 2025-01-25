@@ -55,11 +55,16 @@ Sou um entusiasta de tecnologia em transição para a área de Ciência de Dados
 
   📫 Como me encontrar: LinkedIn | E-mail.
 
-## ⚡ Fun fact: Já fui auxiliar de mecânico automotivo, já fiz camisetas, já pintei casas e vendi suplementos de academia!
+## ⚡ Fun fact:
+
+Já fui auxiliar de mecânico automotivo, já fiz camisetas, já pintei casas e vendi suplementos de academia!
 
 ## ✨ Projetos em Andamento:
 
 Cursando EBAC - Ciência de Dados
+
+
+
 
 🌐 Conecte-se Comigo:
 
